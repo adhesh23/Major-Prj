@@ -313,5 +313,10 @@ SuvRules - [@SuvRules](https://github.com/SuvRules)
 Project Link: [https://github.com/SuvRules/Fish-biomass-estimation](https://github.com/SuvRules/Fish-biomass-estimation)
 
 ---
+The next changes to be made in this project are
+
+1. use an images dataset, instead of a CSV dataset. Record the results, nd update it by evening without fail
+2. Comparison with different models based on accuracy, and other metrics (not specified)
+3. SAMPLE images to be included in the paper.
 
 **⭐ Star this repository if you find it helpful!**
